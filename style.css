@@ -1,0 +1,30 @@
+body{
+    font-family: 'Comfortaa', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.text-color{
+    color: orange;
+}
+.exclamatory{
+    color: orangered;
+}
+.first-section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.half-width img{
+width: 65%;
+}
+.visit-me{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    border-radius: 10px;
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;
+}
